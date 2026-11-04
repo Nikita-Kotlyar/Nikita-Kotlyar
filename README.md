@@ -4,6 +4,8 @@
 
 **Python-разработчик · RAG/LLM · автоматизация · документооборот**
 
+*Python developer focused on RAG/LLM, parsing and document automation*
+
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Nikita-Kotlyar?tab=repositories)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Nikita-Kotlyar?tab=repositories)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Nikita-Kotlyar?tab=repositories)
