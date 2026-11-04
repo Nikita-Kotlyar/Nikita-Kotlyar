@@ -39,6 +39,11 @@
 | **[registry-product-cards-demo](https://github.com/Nikita-Kotlyar/registry-product-cards-demo)** | Демо Playwright-бота для карточек продукции: dry-run, JSON, env | Python · Playwright · pytest |
 | **[vpn-server-panel](https://github.com/Nikita-Kotlyar/vpn-server-panel)** | GUI-панель мониторинга VPN-сервера по SSH | Python · Tkinter · paramiko |
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikita-Kotlyar/rag-npa-search/main/docs/screenshot-main.png" width="48%" alt="RAG-помощник" />
+  <img src="https://raw.githubusercontent.com/Nikita-Kotlyar/doc-opis/main/docs/screenshot-generation.png" width="48%" alt="Генератор описи документов" />
+</p>
+
 ## Опыт
 
 - **2023–2026 — КЗ «ЭКСПЕРТ-КАБЕЛЬ»**, разработчик и специалист по автоматизации: внутренние производственные системы, доработки, тестирование, Docker-сервис планирования заказов.
