@@ -34,14 +34,14 @@
 
 ## Избранные проекты
 
-| Проект | Задача | Результат | Стек |
-|---|---|---|---|
-| **[langgraph-ops-agent](https://github.com/Nikita-Kotlyar/langgraph-ops-agent)** | Разбор производственного инцидента по данным пяти систем | 13 MCP-инструментов, human-in-the-loop, LangFuse-трейс, 22 теста | LangGraph · LangChain · MCP · FastAPI · Docker |
-| **[async-document-queue](https://github.com/Nikita-Kotlyar/async-document-queue)** | Приём и обработка документов из API, почты и папки | OCR, retry, dead-letter, HMAC-webhooks, 48 тестов, coverage 78.7% | FastAPI · Celery · RabbitMQ · Redis · PostgreSQL |
-| **[fastapi-order-service](https://github.com/Nikita-Kotlyar/fastapi-order-service)** | Сверка заказов из 1С, CRM, почты, производства и склада | 580 канонических заказов, 993 проблемы, 53 теста, coverage 90.8% | FastAPI · PostgreSQL · Redis · SQLAlchemy · Alembic |
-| **[rag-npa-search](https://github.com/Nikita-Kotlyar/rag-npa-search)** | Поиск по нормативке РФ со ссылкой на пункт | 151 unit, 13 разделов, 138 пунктов, 3,4 млн символов | Python · Qwen3-Embedding · Claude Haiku · NumPy |
-| **[doc-opis](https://github.com/Nikita-Kotlyar/doc-opis)** | PDF → опись DOCX | Разбор имён, подсчёт страниц, журнал выполнения | Python · Tkinter · python-docx · pypdf |
-| **[registry-document-uploader](https://github.com/Nikita-Kotlyar/registry-document-uploader)** | Загрузка документов в карточку реестра | Playwright-автоматизация, разбор имён, журнал | Python · Playwright · Tkinter |
+| Проект | Что делает и что получилось | Стек |
+|---|---|---|
+| **[langgraph-ops-agent](https://github.com/Nikita-Kotlyar/langgraph-ops-agent)** | Разбор производственного инцидента по данным пяти систем: 13 MCP-инструментов, human-in-the-loop, LangFuse-трейс, 22 теста | LangGraph · LangChain · MCP · FastAPI · Docker |
+| **[async-document-queue](https://github.com/Nikita-Kotlyar/async-document-queue)** | Приём и обработка документов из API, почты и папки: OCR, retry, dead-letter, HMAC-webhooks, 48 тестов, coverage 78.7% | FastAPI · Celery · RabbitMQ · Redis · PostgreSQL |
+| **[fastapi-order-service](https://github.com/Nikita-Kotlyar/fastapi-order-service)** | Сверка заказов из 1С, CRM, почты, производства и склада: 580 заказов, 993 проблемы, 53 теста, coverage 90.8% | FastAPI · PostgreSQL · Redis · SQLAlchemy · Alembic |
+| **[rag-npa-search](https://github.com/Nikita-Kotlyar/rag-npa-search)** | Поиск по нормативке РФ со ссылкой на пункт: 151 unit, 13 разделов, 138 пунктов, 3,4 млн символов | Python · Qwen3-Embedding · Claude Haiku · NumPy |
+| **[doc-opis](https://github.com/Nikita-Kotlyar/doc-opis)** | PDF → опись DOCX: разбор имён, подсчёт страниц, журнал выполнения | Python · Tkinter · python-docx · pypdf |
+| **[registry-document-uploader](https://github.com/Nikita-Kotlyar/registry-document-uploader)** | Загрузка документов в карточку реестра: Playwright, разбор имён, журнал | Python · Playwright · Tkinter |
 
 <p align="center">
   <a href="https://github.com/Nikita-Kotlyar/langgraph-ops-agent/actions/workflows/ci.yml"><img src="https://github.com/Nikita-Kotlyar/langgraph-ops-agent/actions/workflows/ci.yml/badge.svg" alt="CI langgraph-ops-agent"></a>
