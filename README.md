@@ -44,9 +44,9 @@
 | **[registry-document-uploader](https://github.com/Nikita-Kotlyar/registry-document-uploader)** | Загрузка документов в карточку реестра: Playwright, разбор имён, журнал | Python · Playwright · Tkinter |
 
 <p align="center">
-  <a href="https://github.com/Nikita-Kotlyar/langgraph-ops-agent/actions/workflows/ci.yml"><img src="https://github.com/Nikita-Kotlyar/langgraph-ops-agent/actions/workflows/ci.yml/badge.svg" alt="CI langgraph-ops-agent"></a>
-  <a href="https://github.com/Nikita-Kotlyar/async-document-queue/actions/workflows/ci.yml"><img src="https://github.com/Nikita-Kotlyar/async-document-queue/actions/workflows/ci.yml/badge.svg" alt="CI async-document-queue"></a>
-  <a href="https://github.com/Nikita-Kotlyar/fastapi-order-service/actions/workflows/ci.yml"><img src="https://github.com/Nikita-Kotlyar/fastapi-order-service/actions/workflows/ci.yml/badge.svg" alt="CI fastapi-order-service"></a>
+  <a href="https://github.com/Nikita-Kotlyar/langgraph-ops-agent/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/Nikita-Kotlyar/langgraph-ops-agent/ci.yml?label=langgraph-ops-agent&style=flat-square" alt="CI langgraph-ops-agent"></a>
+  <a href="https://github.com/Nikita-Kotlyar/async-document-queue/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/Nikita-Kotlyar/async-document-queue/ci.yml?label=async-document-queue&style=flat-square" alt="CI async-document-queue"></a>
+  <a href="https://github.com/Nikita-Kotlyar/fastapi-order-service/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/Nikita-Kotlyar/fastapi-order-service/ci.yml?label=fastapi-order-service&style=flat-square" alt="CI fastapi-order-service"></a>
 </p>
 
 ## Опыт
